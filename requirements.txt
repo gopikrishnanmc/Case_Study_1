@@ -1,0 +1,5 @@
+isodate==0.5.4
+pyparsing==2.2.0
+rdflib==4.2.2
+SPARQLWrapper==1.8.0
+wheel==0.24.0
